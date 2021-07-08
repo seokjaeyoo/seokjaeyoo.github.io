@@ -9,7 +9,7 @@ Inha University
 
 Phone: (000) 000-0000
 
-Email: seokjaeyoo@inha.ac.kr
+Email: grad@inha.ac.kr
 
 Office: 
 
