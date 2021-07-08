@@ -3,10 +3,10 @@
 Gem::Specification.new do |spec|
   spec.name          = "academic-jekyll-theme"
   spec.version       = "1.0.0"
-  spec.authors       = ["Paul Le"]
-  spec.email         = ["hello@paulle.ca"]
+  spec.authors       = ["SeokJae Yoo"]
+  spec.email         = ["seokjaeyoo@inha.ac.kr"]
 
-  spec.summary       = "Yoo group"
+  spec.summary       = "Quantum Nano-Optics Group"
   spec.homepage      = "https://seokjaeyoo.github.io/"
   spec.license       = "MIT"
 
