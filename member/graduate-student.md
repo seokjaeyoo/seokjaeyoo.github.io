@@ -3,16 +3,16 @@ layout: page
 title: "Graduate Student"
 ---
 
-Researcher - Physics & Astronomy
+Researcher - Physics
 
-Some University - 1 Main Street, Canada
+Inha University
 
 Phone: (000) 000-0000
 
-Email: hello@university.edu
+Email: seokjaeyoo@inha.ac.kr
 
-Office: Science Building 505
+Office: 
 
 ---
 
-Nullam lacinia eros eu lectus efficitur euismod. Phasellus ac urna ligula. Curabitur a massa volutpat, convallis velit ut, varius nunc. Ut venenatis pellentesque nulla, luctus accumsan eros suscipit vitae. Proin odio neque, hendrerit cursus mattis ut, aliquet ut nulla. Nulla facilisi. Donec tempus rutrum libero vel cursus.
+descriptions
