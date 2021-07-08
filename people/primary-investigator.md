@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Primary Investigator"
+title: "Professor"
 ---
 
 Researcher - Physics & Astronomy
