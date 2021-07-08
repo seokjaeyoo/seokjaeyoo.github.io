@@ -1,10 +1,11 @@
 menu:
 - {name: 'member', url: '/member'}
-#- {name: 'people', url: '/people'}
+- {name: 'research', url: '/research'}
 - {name: 'publications', url: '/publications'}
-- {name: 'courses', url: '/courses'}
-- {name: 'cv', url: '/cv'}
-- {name: 'contact', url: '/contact'}
+#- {name: 'people', url: '/people'}
+#- {name: 'courses', url: '/courses'}
+#- {name: 'cv', url: '/cv'}
+#- {name: 'contact', url: '/contact'}
 
 member:
 - {name: 'Professor', title: 'Researcher', department: 'Physics & Astronomy', institution: 'Some University', institution_address: '1 Main Street, Canada', phone: '(000) 000-0000', email: 'hello@university.edu', office: 'Science Building 505', image: 'assets/img/primary-investigator.jpg', url: 'primary-investigator'}
@@ -14,16 +15,18 @@ member:
 #- {name: 'Lab Technician', title: 'Researcher', department: 'Physics & Astronomy', institution: 'Some University', institution_address: '1 Main Street, Canada', phone: '(000) 000-0000', email: 'hello@university.edu', office: 'Science Building 505', image: 'assets/img/lab-technician.jpg', url: 'lab-technician'}
 #- {name: 'Graduate Student', title: 'Researcher', department: 'Physics & Astronomy', institution: 'Some University', institution_address: '1 Main Street, Canada', phone: '(000) 000-0000', email: 'hello@university.edu', office: 'Science Building 505', image: 'assets/img/graduate-student.jpg', url: 'graduate-student'}
 
-courses:
-- {name: 'Vector Calculus', url: 'vector-calculus'}
-- {name: 'Quantum Mechanics', url: 'quantum-mechanics'}
-- {name: 'Stellar Structures', url: 'stellar-structures'}
+#courses:
+#- {name: 'Vector Calculus', url: 'vector-calculus'}
+#- {name: 'Quantum Mechanics', url: 'quantum-mechanics'}
+#- {name: 'Stellar Structures', url: 'stellar-structures'}
 
 social:
-- {icon: 'github', link: 'https://github.com/LeNPaul'}
-- {icon: 'twitter', link: 'https://twitter.com/paululele'}
-- {icon: 'instagram', link: 'https://instagram.com/paululele'}
-- {icon: 'linkedin', link: 'https://linkedin.com/in/lenpaul'}
+- {icon: 'google', link: 'https://scholar.google.com/citations?user=ykNjjx0AAAAJ&hl=en'}
+- {icon: 'id-card-o', link: 'https://orcid.org/0000-0002-6438-7123'}
+- {icon: 'linkedin', link: 'https://www.linkedin.com/in/seokjaeyoo/'}
+- {icon: 'github', link: 'https://github.com/seokjaeyoo/yoo'}
+#- {icon: 'twitter', link: 'https://twitter.com/paululele'}
+#- {icon: 'instagram', link: 'https://instagram.com/paululele'}
 
-contacts:
-- {name: 'Dr. Academia', title: 'Professor', department: 'Physics & Astronomy', institution: 'Some University', institution_address: '1 Main Street, Canada', phone: '(000) 000-0000', email: 'hello@university.edu', office: 'Science Building 505', image: 'assets/img/contact.jpg'}
+#contacts:
+#- {name: 'Dr. Academia', title: 'Professor', department: 'Physics & Astronomy', institution: 'Some University', institution_address: '1 Main Street, Canada', phone: '(000) 000-0000', email: 'hello@university.edu', office: 'Science Building 505', image: 'assets/img/contact.jpg'}
