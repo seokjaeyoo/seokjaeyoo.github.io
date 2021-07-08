@@ -23,7 +23,7 @@ member:
 
 social:
 - {icon: 'google', link: 'https://scholar.google.com/citations?user=ykNjjx0AAAAJ&hl=en'}
-- {icon: 'id-card-o', link: 'https://orcid.org/0000-0002-6438-7123'}
+- {icon: 'id-card', link: 'https://orcid.org/0000-0002-6438-7123'}
 - {icon: 'linkedin', link: 'https://www.linkedin.com/in/seokjaeyoo/'}
 - {icon: 'github', link: 'https://github.com/seokjaeyoo/yoo'}
 #- {icon: 'twitter', link: 'https://twitter.com/paululele'}
