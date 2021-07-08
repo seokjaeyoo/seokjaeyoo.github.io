@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Professor"
+title: "Research"
 ---
 
 Research
