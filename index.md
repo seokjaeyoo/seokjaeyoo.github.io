@@ -7,6 +7,8 @@ Welcome to the Quantum Nano-Optics Group. We explore novel physics in low dimens
 
 We're recruiting graduate students and postdocs. We pursue a democratic and social lab environment rather than a hierarchical environemnt. Please find [our lab manual](link) for our efforts to a lab culture.
 
+We also welcome undergraduate internship. Feel free to reach out to Prof. Yoo if interested.
+
 - **Open Office** : No reservation is required. Any topics are welcome. Details for Open Office are described in [this post](post). In Fall semester 2021, Open Office hours are xx:xx am ~ xx:xx am (day). Please find [Google Calendar](https://calendar.google.com/calendar/embed?src=c_t42fgem8cotfbrv0fli02jq43k%40group.calendar.google.com&ctz=Asia%2FSeoul) for Prof. Yoo's schedule. 
 - **Open Lab** : TBA
 - **Lab manual** : TBA
