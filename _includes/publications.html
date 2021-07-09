@@ -5,7 +5,7 @@
     <h4 class="fw-bold border-bottom pb-3 mb-5">In preparation</h4>
     <ul>
       {% for item in site.data.publications.prep %}
-          <li>{{ item.name }} <a href="{{ item.url }}">(link)</a></li>
+          <li>{{ item.name }} (<a href="{{ item.url }}">link</a>)</li>
       {% endfor %}
     </ul>
   </div>
@@ -14,16 +14,79 @@
     <h4 class="fw-bold border-bottom pb-3 mb-5">2021</h4>
     <ul>
       {% for item in site.data.publications.yr2021 %}
-          <li><a href="{{ item.url }}">{{ item.name }}</a></li>
+          <li><{{ item.name }} (<a href="{{ item.url }}">link</a>)</li>
       {% endfor %}
     </ul>
   </div>
 
   <div>
-    <h4 class="fw-bold border-bottom pb-3 mb-5">~2021</h4>
+    <h4 class="fw-bold border-bottom pb-3 mb-5">2020</h4>
     <ul>
-      {% for item in site.data.publications.postdoc %}
-          <li><a href="{{ item.url }}">{{ item.name }}</a></li>
+      {% for item in site.data.publications.yr2020 %}
+          <li>{{ item.name }} (<a href="{{ item.url }}">link</a>)</li>
+      {% endfor %}
+    </ul>
+  </div>
+
+  <div>
+    <h4 class="fw-bold border-bottom pb-3 mb-5">2019</h4>
+    <ul>
+      {% for item in site.data.publications.yr2019 %}
+          <li>{{ item.name }} (<a href="{{ item.url }}">link</a>)</li>
+      {% endfor %}
+    </ul>
+  </div>
+
+  <div>
+    <h4 class="fw-bold border-bottom pb-3 mb-5">2018</h4>
+    <ul>
+      {% for item in site.data.publications.yr2018 %}
+          <li>{{ item.name }} (<a href="{{ item.url }}">link</a>)</li>
+      {% endfor %}
+    </ul>
+  </div>
+
+  <div>
+    <h4 class="fw-bold border-bottom pb-3 mb-5">2017</h4>
+    <ul>
+      {% for item in site.data.publications.yr2017 %}
+          <li>{{ item.name }} (<a href="{{ item.url }}">link</a>)</li>
+      {% endfor %}
+    </ul>
+  </div>
+
+  <div>
+    <h4 class="fw-bold border-bottom pb-3 mb-5">2016</h4>
+    <ul>
+      {% for item in site.data.publications.yr2016 %}
+          <li>{{ item.name }} (<a href="{{ item.url }}">link</a>)</li>
+      {% endfor %}
+    </ul>
+  </div>
+
+  <div>
+    <h4 class="fw-bold border-bottom pb-3 mb-5">2015</h4>
+    <ul>
+      {% for item in site.data.publications.yr2015 %}
+          <li>{{ item.name }} (<a href="{{ item.url }}">link</a>)</li>
+      {% endfor %}
+    </ul>
+  </div>
+
+  <div>
+    <h4 class="fw-bold border-bottom pb-3 mb-5">2014</h4>
+    <ul>
+      {% for item in site.data.publications.yr2014 %}
+          <li>{{ item.name }} (<a href="{{ item.url }}">link</a>)</li>
+      {% endfor %}
+    </ul>
+  </div>
+
+  <div>
+    <h4 class="fw-bold border-bottom pb-3 mb-5">2012</h4>
+    <ul>
+      {% for item in site.data.publications.yr2014 %}
+          <li>{{ item.name }} (<a href="{{ item.url }}">link</a>)</li>
       {% endfor %}
     </ul>
   </div>
