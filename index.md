@@ -3,7 +3,7 @@ layout: home
 title: "Home"
 ---
 
-Welcome to the Quantum Nano-Optics Group. We explore novel physics in low dimensional systems and other condensed matters using a nano-optics approach. We perform both experimental and theoretical studies for our projects. Please find [research](link) for details.
+Welcome to the Quantum Nano-Optics Group. We explore novel physics in low dimensional systems and other condensed matters using a nano-optics approach. We perform both experimental and theoretical studies for our projects. Please find [research](research) for details.
 
 We're recruiting graduate students and postdocs. We pursue a democratic and social lab environment rather than a hierarchical environemnt. Please find [our lab manual](link) for our efforts to a lab culture.
 
