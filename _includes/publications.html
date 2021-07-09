@@ -3,22 +3,28 @@
   
   <div>
     <h4 class="fw-bold border-bottom pb-3 mb-5">In preparation</h4>
-    {% for item in site.data.publications.prep %}
-        <li><a href="{{ item.url }}">{{ item.name }}</a></li>
-    {% endfor %}
+    <ul>
+      {% for item in site.data.publications.prep %}
+          <li><a href="{{ item.url }}">{{ item.name }}</a></li>
+      {% endfor %}
+    </ul>
   </div>
 
   <div>
     <h4 class="fw-bold border-bottom pb-3 mb-5">2021</h4>
-    {% for item in site.data.publications.yr2021 %}
-        <p><a href="{{ item.url }}">{{ item.name }}</a></p>
-    {% endfor %}
+    <ul>
+      {% for item in site.data.publications.yr2021 %}
+          <p><a href="{{ item.url }}">{{ item.name }}</a></p>
+      {% endfor %}
+    </ul>
   </div>
 
   <div>
     <h4 class="fw-bold border-bottom pb-3 mb-5">~2021</h4>
-    {% for item in site.data.publications.postdoc %}
-        <p><a href="{{ item.url }}">{{ item.name }}</a></p>
-    {% endfor %}
+    <ul>
+      {% for item in site.data.publications.postdoc %}
+          <p><a href="{{ item.url }}">{{ item.name }}</a></p>
+      {% endfor %}
+    </ul>
   </div>
 </div>
