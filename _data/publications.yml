@@ -7,30 +7,42 @@ prep:
 - {name: 'Sheng Wang†,*, SeokJae Yoo†,*, Sihan Zhao†, Wenyu Zhao, Salman Kahn, Dingzhou Cui, Fanqi Wu, Lili Jiang, Iqbal Utama, Hongyuan Li, Shaowei Li, Sasha Zibrov, Emma Regan, Danqing Wang, Zuocheng Zhang, Kenji Watanabe, Takashi Taniguchi, Chongwu Zhou, Feng Wang*, Gate tunable plasmons in mixed-dimensional van der Waals heterostructures, accepted (Nat. Commun.)'}
 
 yr2021:
-- {name: 'Stay tuned!'}
-
-postdoc:
 - {name: 'Wenyu Zhao†, Sihan Zhao†, Hongyuan Li, Sheng Wang, Shaoxin Wang, M. Iqbal Bakti Utama, Salman Kahn, Yue Jiang, Xiao Xiao, SeokJae Yoo, Kenji Watanabe, Takashi Taniguchi, Alex Zettl, and Feng Wang, Efficient Fizeau Drag from Dirac electrons in monolayer graphene, Nature, 594 (7864), 517-521 (2021).', url: 'https://doi.org/10.1038/s41586-021-03574-4'}
+
+yr2020:
 - {name: 'Sihan Zhao†, SeokJae Yoo†, Sheng Wang†, Bosai Lyu, Salman Kahn, Fanqi Wu, Zhiyuan Zhao, Dingzhou Cui, Wenyu Zhao, Yoseob Yoon, M. Iqbal Bakti Utama, Wu Shi, Kenji Watanabe, Takashi Taniguchi, Michael F. Crommie, Zhiwen Shi, Chongwu Zhou, and Feng Wang, Tunneling Spectroscopy in Carbon Nanotube-Hexagonal Boron Nitride-Carbon Nanotube Heterojunctions, Nano Letters, 20 (9), 6712-6718 (2020).', url: 'https://doi.org/10.1021/acs.nanolett.0c02585'}
+
+yr2019:
 - {name: 'Hyo-Yong Ahn†, SeokJae Yoo†, Nam Heon Cho, Ryeong-Myeong Kim, Hyeohn Kim, Ji-Hyeok Huh, Seungwoo Lee, and Ki Tae Nam, Bioinspired Toolkit Based on Intermolecular Encoder Toward Evolutionary 4D Chiral Plasmonic Materials, Accounts of Chemical Research, 52 (10), 2768-2783 (2019).', url: 'https://doi.org/10.1021/acs.accounts.9b00264'}
 - {name: 'SeokJae Yoo†, Suyeon Lee†, Jong-Ho Choe, and Q-Han Park, Causal Homogenization of Metamaterials, Nanophotonics, 8, 6, 1063 (2019).', url: 'https://doi.org/10.1515/nanoph-2019-0069'}
 - {name: 'Gwang-Hun Jung, SeokJae Yoo, Jin-Soo Kim, and Q-Han Park, Maximal visible light energy transfer to ultrathin semiconductor films enabled by dispersion control, Advanced Optical Materials, 1801229 (2019).', url: 'https://doi.org/10.1002/adom.201801229'}
 - {name: 'Gwang-Hun Jung†, SeokJae Yoo†, and Q-Han Park, Measuring the optical permittivity of two-dimensional materials without a priori knowledge on electronic transitions, Nanophotonics, 8, 2, 263 (2019).', url: 'https://doi.org/10.1515/nanoph-2018-0120'}
-- {name: 'SeokJae Yoo†,* and Q-Han Park*, Metamaterials and chiral sensing: a review on fundamentals and applications, Nanophotonics, 8, 2, 249 (2019).', url: 'SeokJae Yoo ORCID logo and Q-Han Park
-https://doi.org/10.1515/nanoph-2018-0167'}
+- {name: 'SeokJae Yoo†,* and Q-Han Park*, Metamaterials and chiral sensing: a review on fundamentals and applications, Nanophotonics, 8, 2, 249 (2019).', url: 'https://doi.org/10.1515/nanoph-2018-0167'}
+
+yr2018:
 - {name: 'SeokJae Yoo, and Q-Han Park, Polarimetric microscopy for optical control and high precision measurement of valley polarization, Review of Scientific Instruments, 89, 6, 063118 (2018).', url: 'https://doi.org/10.1063/1.5027517'}
 - {name: 'Seojoo Lee, Ji-Hun Kang, SeokJae Yoo, and Q-Han Park, Robust numerical evaluation of circular dichroism from chiral medium/nanostructure coupled systems using the finite-element method, Scientific Reports, 8, 8406 (2018).', url: 'https://doi.org/10.1038/s41598-018-26815-5'}
 - {name: 'SeokJae Yoo†, Suyeon Lee†, and Q-Han Park, Loss-free negative index metamaterials using forward light scattering in dielectric meta-atoms, ACS Photonics, 5, 4, 1370 (2018).', url: 'https://doi.org/10.1021/acsphotonics.7b01400'}
+
+yr2017:
 - {name: 'Min-Gon Lee†, SeokJae Yoo†, TaeHyung Kim, and Q-Han Park, Large-area plasmon enhanced two-dimensional MoS2, Nanoscale, 9, 16244-16248 (2017).', url: 'https://doi.org/10.1039/C7NR04974A'}
 - {name: 'Kwangjin Kim†, SeokJae Yoo†,*, Ji-Hyeok Huh, Q-Han Park, and Seungwoo Lee*, Limitations and opportunities for optical metafluids to achieve unnatural refractive index, ACS Photonics, 4, 9, 2298-2311 (2017).', url: 'https://doi.org/10.1021/acsphotonics.7b00546'}
 - {name: 'Seojoo Lee†, SeokJae Yoo†, and Q-Han Park, Microscopic Origin of Surface-enhanced Circular Dichroism, ACS photonics, 4, 8, 2047-2052 (2017).', url: 'https://doi.org/10.1021/acsphotonics.7b00479'}
 - {name: 'Youngseop Lee, Sang-Gil Park, SeokJae Yoo, Minhee Kang, Sang Chul Jeon, Young-Su Kim, Q-Han Park, and Ki-Hun Jeong, Optically Patternable Metamaterial Below Diffraction Limit, ACS Applied Materials & Interfaces, 9, 18405–18409 (2017).', url: 'https://doi.org/10.1021/acsami.7b02940'}
 - {name: 'Sang-Gil Park, Youngseop Lee, Seyong Kwon, SeokJae Yoo, Q-Han Park, Je-Kyun Park, and Ki-Hun Jeong, Extraordinary Figure-of-Merit of Magnetic Resonance from Ultrathin Silicon Nanohole Membrane as All-Dielectric Metamaterial, Advanced Optical Materials, 5, 1600628 (2017).', url: 'https://doi.org/10.1002/adom.201600628'}
+
+yr2016:
 - {name: 'Donghwan Yoon†, SeokJae Yoo†, Kyoung Sik Nam, Hionsuck Baik, Kwangyeol Lee, and Q-Han Park, Plasmon enhanced direct bandgap emissions in Cu7S4@Au2S@Au nanorings, Small, 12(41), 5728 (2016).', url: 'https://doi.org/10.1002/smll.201602112'}
 - {name: 'Yoonsik Yi, SeokJae Yoo, Jong-Ho Choe, Sang-Gil Park, Ki-Hun Jeong, Q-Han Park, and Choon-Gi Choi, Strong visible magnetic resonance of size-controlled silicon-nanoblock metasurfaces, Applied Physics Express, 9(4), 042001 (2016).', url: 'https://doi.org/10.7567/APEX.9.042001'}
 - {name: 'Myung-Su Seok, SeokJae Yoo, Jong-Ho Choe, Yong-Tae Mon, and Q-Han Park, Light extraction efficiency enhancement using surface-structured light-emitting diodes with a subwavelength coating, Journal of the Korean Physical Society, 68(3), 462–466 (2016).', url: 'https://doi.org/10.3938/jkps.68.462'}
+
+yr2015:
 - {name: 'Myung-Su Seok, Min-Gon Lee, SeokJae Yoo, and Q-Han Park, Electromagnetic metamaterial simulations using a GPU-accelerated FDTD method, Journal of the Korean Physical Society 67, 2026–2032 (2015).', url: 'https://doi.org/10.3938/jkps.67.2026'}
 - {name: 'SeokJae Yoo and Q-Han Park, Enhancement of Chiroptical Signals by Circular Differential Mie Scattering of Nanoparticles, Scientific Reports, 5, 14463 (2015).', url: 'https://doi.org/10.1038/srep14463'}
 - {name: 'SeokJae Yoo, and Q-Han Park, Chiral Light-Matter Interaction in Optical Resonators, Physical Review Letters, 114(20), 203003 (2015).', url: 'https://doi.org/10.1103/PhysRevLett.114.203003'}
+
+yr2014:
 - {name: 'SeokJae Yoo, Minhaeng Cho, and Q-Han Park, Globally enhanced chiral field generation by negative-index metamaterials, Physical Review B, 89(16), 161405(R) (2014).', url: 'https://doi.org/10.1103/PhysRevB.89.161405'}
+
+yr2012:
 - {name: 'SeokJae Yoo, and Q-Han Park, Effective permittivity for resonant plasmonic nanoparticle systems via dressed polarizability, Optics Express, 20(15), 16480 (2012).', url: 'https://doi.org/10.1364/OE.20.016480'}
