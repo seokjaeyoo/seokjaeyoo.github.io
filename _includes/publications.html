@@ -5,7 +5,7 @@
     <h4 class="fw-bold border-bottom pb-3 mb-5">In preparation</h4>
     <ul>
       {% for item in site.data.publications.prep %}
-          <li><a href="{{ item.url }}">{{ item.name }}</a></li>
+          <li>{{ item.name }} <a href="{{ item.url }}">(link)</a></li>
       {% endfor %}
     </ul>
   </div>
