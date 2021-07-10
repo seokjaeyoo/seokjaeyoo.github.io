@@ -1,18 +1,11 @@
 ---
 layout: page
-title: "Graduate Student"
+title: "Grad - name"
 ---
 
-Researcher - Physics
-
-Inha University
-
+Department of Physics, Inha University
 Phone: (000) 000-0000
-
-Email: grad@inha.ac.kr
-
+Email: address@inha.ac.kr
 Office: 
-
----
 
 descriptions
