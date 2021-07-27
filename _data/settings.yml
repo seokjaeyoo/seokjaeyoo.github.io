@@ -4,7 +4,7 @@ menu:
 - {name: 'publications', url: '/publications'}
 
 member:
-- {name: 'SeokJae Yoo', title: 'Professor', department: 'Physics', institution: 'Inha University', institution_address: 'address', phone: '(000) 000-0000', email: 'seokjaeyoo@inha.ac.kr', office: 'Building', image: 'assets/img/primary-investigator.jpg', url: 'professor'}
+- {name: 'SeokJae Yoo', title: 'Professor', department: 'Physics', institution: 'Inha University', institution_address: 'address', phone: '(000) 000-0000', email: 'seokjaeyoo@inha.ac.kr', office: '5S303', image: 'assets/img/primary-investigator.jpg', url: 'professor'}
 - {name: 'Graduate Student', title: 'Researcher', department: 'Physics', institution: 'Inha University', institution_address: 'address', phone: '(000) 000-0000', email: 'grad@inha.ac.kr', office: 'Building', image: 'assets/img/graduate-student.jpg', url: 'graduate-student'}
 
 social:
