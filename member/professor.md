@@ -25,10 +25,11 @@ BSc.: Department of Physics, Korea University (Mar 2007 ~ Feb 2011)
 
 ---
 __Featured Publications__
+
 [Gate tunable plasmons in mixed-dimensional van der Waals heterostructures, Nature Communications, 12, 5039 (2021).](https://www.nature.com/articles/s41467-021-25269-0)
 
-[Nano Letters, 20 (9), 6712-6718 (2020).](https://doi.org/10.1021/acs.nanolett.0c02585)
+[Tunneling Spectroscopy in Carbon Nanotube-Hexagonal Boron Nitride-Carbon Nanotube Heterojunctions, Nano Letters, 20 (9), 6712-6718 (2020).](https://doi.org/10.1021/acs.nanolett.0c02585)
 
-[Nanophotonics, 8, 2, 249 (2019).](https://doi.org/10.1515/nanoph-2018-0167)
+[Metamaterials and chiral sensing: a review on fundamentals and applications, Nanophotonics, 8, 2, 249 (2019).](https://doi.org/10.1515/nanoph-2018-0167)
 
-[Physical Review Letters, 114(20), 203003 (2015).](https://doi.org/10.1103/PhysRevLett.114.203003)
+[Chiral Light-Matter Interaction in Optical Resonators, Physical Review Letters, 114(20), 203003 (2015).](https://doi.org/10.1103/PhysRevLett.114.203003)
