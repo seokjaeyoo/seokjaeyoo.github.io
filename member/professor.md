@@ -3,10 +3,11 @@ layout: page
 title: Prof. SeokJae Yoo
 published: true
 ---
+__Information__
 
 Department of Physics, Inha University
 
-Phone: (032) 860-xxxx
+Phone: (032) 860-xxxx (TBA)
 
 Email: seokjaeyoo@inha.ac.kr
 
