@@ -1,6 +1,7 @@
 ---
 layout: page
-title: "Prof. SeokJae Yoo"
+title: Prof. SeokJae Yoo
+published: true
 ---
 
 Department of Physics, Inha University
@@ -24,12 +25,10 @@ BSc.: Department of Physics, Korea University (Mar 2007 ~ Feb 2011)
 
 ---
 __Featured Publications__
-Gate tunable plasmons in mixed-dimensional van der Waals heterostructures, Nature Communications, 12, 5039 (2021)., url: 'https://www.nature.com/articles/s41467-021-25269-0'
+[Gate tunable plasmons in mixed-dimensional van der Waals heterostructures, Nature Communications, 12, 5039 (2021).](https://www.nature.com/articles/s41467-021-25269-0)
 
-Nano Letters, 20 (9), 6712-6718 (2020)., url: 'https://doi.org/10.1021/acs.nanolett.0c02585'
+[Nano Letters, 20 (9), 6712-6718 (2020).](https://doi.org/10.1021/acs.nanolett.0c02585)
 
-Nanophotonics, 8, 2, 249 (2019)., url: 'https://doi.org/10.1515/nanoph-2018-0167'
+[Nanophotonics, 8, 2, 249 (2019).](https://doi.org/10.1515/nanoph-2018-0167)
 
-Physical Review Letters, 114(20), 203003 (2015)., url: 'https://doi.org/10.1103/PhysRevLett.114.203003'}
-
-
+[Physical Review Letters, 114(20), 203003 (2015).](https://doi.org/10.1103/PhysRevLett.114.203003)
