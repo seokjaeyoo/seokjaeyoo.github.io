@@ -1,11 +1,12 @@
 ---
 layout: home
-title: "Home"
+title: Home
+published: true
 ---
 
 Welcome to the Quantum Nano-Optics Group. We explore novel physics in low dimensional systems and other condensed matters using a nano-optics approach. We perform both experimental and theoretical studies for our projects. Please find [research](research) for details.
 
-We're recruiting graduate students and postdocs. We pursue a democratic and social lab environment rather than a hierarchical environemnt. Please find [our lab manual](link) for our efforts to a lab culture.
+We're recruiting graduate students and postdocs. We pursue a democratic and social lab environment rather than a hierarchical environemnt. Please find [our lab manual](https://github.com/seokjaeyoo/quantum-nano-optics-group/blob/main/20210827_group-manual_v1.pdf) for our efforts to a lab culture.
 
 We also welcome undergraduate internship. Feel free to reach out to Prof. Yoo if interested.
 
