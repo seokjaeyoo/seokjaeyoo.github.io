@@ -7,7 +7,7 @@ __Information__
 
 Department of Physics, Inha University
 
-Phone: (032) 860-xxxx (TBA)
+Phone: (032) 860-7658
 
 Email: seokjaeyoo@inha.ac.kr
 
@@ -26,6 +26,8 @@ BSc.: Department of Physics, Korea University (Mar 2007 ~ Feb 2011)
 
 ---
 __Featured Publications__
+
+[Infrared Light-Emitting Devices from Antenna-Coupled Luttinger Liquid Plasmons In Carbon Nanotubes, Physical Review Letters, 127, 257702 (2021).](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.127.257702)
 
 [Gate tunable plasmons in mixed-dimensional van der Waals heterostructures, Nature Communications, 12, 5039 (2021).](https://www.nature.com/articles/s41467-021-25269-0)
 
