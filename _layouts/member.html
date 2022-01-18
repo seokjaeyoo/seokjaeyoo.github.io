@@ -1,5 +1,6 @@
 ---
 layout: default
+published: true
 ---
 
 {{ content }}
@@ -9,6 +10,7 @@ layout: default
 <div class="row g-5 mb-5">
   <div class="col-md-8">
     <h5>{{ person.name }}</h5>
+    <p>Position: {{ person.title }}</p>
     <p>Email: {{ person.email }}</p>
     <p>Office: {{ person.office }}</p>
     <p><a href="{{ site.github.url }}/member/{{ person.url }}">More info</a></p>
