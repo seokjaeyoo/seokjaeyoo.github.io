@@ -8,14 +8,14 @@ published: true
 <h4>Member</h4>
 {% for person in site.data.settings.pi %}
 <div class="row g-5 mb-5">
-  <div class="col-md-8">
+  <div class="col-md-10">
     <h5>{{ person.name }}</h5>
     <p>Position: {{ person.title }}</p>
     <p>Email: {{ person.email }}</p>
     <p>Office: {{ person.office }}</p>
     <p><a href="{{ site.github.url }}/member/professor.md">More info</a></p>
   </div>
-  <div class="col-md-4">
+  <div class="col-md-2">
     <img src="{{ site.github.url }}/{{ person.image }}" alt="Contact" width="100%">
   </div>
 </div>
