@@ -15,8 +15,8 @@ member:
 yjg4073@gmail.com', office: '5N313', url: 'graduate-student', image: 'assets/img/SymbolMark_tran.png'}
 
 alumni:
-- {name: 'Kyung Hoon Kim', period: '2021/2022 winter vacation', title: 'undergraduate student (Inha University)'}
-- {name: 'KiBack Kim', period: '2021/2022 winter vacation', title: 'undergraduate student (Inha University)'}
+- {name: 'Kyung Hoon Kim', period: 'Undergrad internship (2021/2022 winter)', title: 'student (Inha University)'}
+- {name: 'KiBack Kim', period: 'Undergrad internship (2021/2022 winter)', title: 'student (Inha University)'}
 
 social:
 - {icon: 'google', link: 'https://scholar.google.com/citations?user=ykNjjx0AAAAJ&hl=en'}
