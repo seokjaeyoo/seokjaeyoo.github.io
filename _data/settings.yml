@@ -9,12 +9,14 @@ pi:
 member:
 - {name: 'DongJun Kang', title: 'Student', department: 'Physics', institution: 'Inha University', institution_address: 'address', phone: 'NA', email: 'qqsscc0310@inha.edu', office: '5N313', url: 'graduate-student', image: 'assets/img/SymbolMark_tran.png'}
 - {name: 'YoonYeong Ko', title: 'Student', department: 'Physics', institution: 'Inha University', institution_address: 'address', phone: 'NA', email: 'b46541@naver.com', office: '5N313', url: 'graduate-student', image: 'assets/img/SymbolMark_tran.png'}
-- {name: 'Kyung Hoon Kim', title: 'Student', department: 'Physics', institution: 'Inha University', institution_address: 'address', phone: 'NA', email: 'kkh6972@naver.com', office: '5N313', url: 'graduate-student', image: 'assets/img/SymbolMark_tran.png'}
-- {name: 'KiBack Kim', title: 'Student', department: 'Physics', institution: 'Inha University', institution_address: 'address', phone: 'NA', email: '1991kln@naver.com', office: '5N313', url: 'graduate-student', image: 'assets/img/SymbolMark_tran.png'}
 - {name: 'Eun Su Jeon', title: 'Student', department: 'Mathematics', institution: 'Inha University', institution_address: 'address', phone: 'NA', email: 'lasttwice@inha.edu', office: '5N313', url: 'graduate-student', image: 'assets/img/SymbolMark_tran.png'}
 - {name: 'SeungWoo Choi', title: 'Student', department: 'Physics', institution: 'Inha University', institution_address: 'address', phone: 'NA', email: 'reungwoo0127@gmail.com', office: '5N313', url: 'graduate-student', image: 'assets/img/SymbolMark_tran.png'}
 - {name: 'Jingyu Youn', title: 'Student', department: 'Physics', institution: 'Inha University', institution_address: 'address', phone: 'NA', email: '
 yjg4073@gmail.com', office: '5N313', url: 'graduate-student', image: 'assets/img/SymbolMark_tran.png'}
+
+alumni:
+- {name: 'Kyung Hoon Kim', period: '2021/2022 winter vacation', title: 'undergraduate student (Inha University)'}
+- {name: 'KiBack Kim', period: '2021/2022 winter vacation', title: 'undergraduate student (Inha University)'}
 
 social:
 - {icon: 'google', link: 'https://scholar.google.com/citations?user=ykNjjx0AAAAJ&hl=en'}
