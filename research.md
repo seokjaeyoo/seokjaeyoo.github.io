@@ -6,7 +6,7 @@ published: true
 
 ## Research Interest
 
-<p align="center"><img src="/assets/img/research-interest-1.png" style="max-width: 80%; height: auto;"></p>
+<p><img src="/assets/img/research-interest-1.png" style="max-width: 80%; height: auto;"></p>
 **List of topics**
 - Nanophotonic control of low D properties
 - Optoelectronic devices based on low-dimensional materials
