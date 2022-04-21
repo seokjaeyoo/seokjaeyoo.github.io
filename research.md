@@ -5,15 +5,18 @@ published: true
 ---
 
 ## Research Interest
-### Physics in low dimension
+
 <p align="center"><img src="/assets/img/research-interest-1.png" style="max-width: 70%; height: auto;"></p>
+**List of specific topics**
 - Nanophotonic control of low D properties
 - Optoelectronic devices based on low-dimensional materials
 - Novel ellipsometry for low D heterostructure
-#### Related papers
-- 1
-- 2
-- 3
+**Related papers**
+- Efficient Fizeau Drag from Dirac electrons in monolayer graphene, Nature, 594 (7864), 517-521 (2021).
+- Infrared light-emitting devices from antenna-coupled Luttinger liquid plasmons in carbon nanotubes, Physical Review Letters, 127, 257702 (2021).
+- Gate tunable plasmons in mixed-dimensional van der Waals heterostructures, Nature Communications, 12, 5039 (2021).
+- Measuring the optical permittivity of two-dimensional materials without a priori knowledge on electronic transitions, Nanophotonics, 8, 2, 263 (2019).
+- Polarimetric microscopy for optical control and high precision measurement of valley polarization, Review of Scientific Instruments, 89, 6, 063118 (2018).
 
 #### Quantum light-matter Interaction 
 <p align="center"><img src="/assets/img/research-interest-2.png" style="max-width: 70%; height: auto;"></p>
