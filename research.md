@@ -5,7 +5,7 @@ published: true
 ---
 
 ## Research Interest
-<p align="center"><img src="/assets/img/research-interest-1.png" style="max-width: 100%; height: auto;"></p>
+<p align="center"><img src="/assets/img/research-interest-1.png" style="max-width: 70%; height: auto;"></p>
 
 #### Light-matter Interaction in quantum systems
 We explore novel physics on the light-matter interaction in quantum systems including low-dimensional condensed matter. Low dimensional materials exhibits strong light-matter interaction even though they have atomic thicknesses. They also possess exotic and novel qunatum properties that cannot be found in their higher dimensional counterparts.
