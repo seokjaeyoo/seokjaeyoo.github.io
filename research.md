@@ -23,18 +23,31 @@ published: true
 We explore novel physics on the light-matter interaction in quantum systems including low-dimensional condensed matter. Low dimensional materials exhibits strong light-matter interaction even though they have atomic thicknesses. They also possess exotic and novel qunatum properties that cannot be found in their higher dimensional counterparts.
 
 **List of topics**
-- Nanophotonic control of low D properties
-- Optoelectronic devices based on low-dimensional materials
-- Novel ellipsometry for low D heterostructure
+- Luttinger liquid
+- Exciton-polaritons
 
 **Related papers**
-- Efficient Fizeau Drag from Dirac electrons in monolayer graphene, Nature, 594 (7864), 517-521 (2021).
+- 
 - 
 
 <p align="center"><img src="/assets/img/research-interest-3.png" style="max-width: 80%; height: auto;"></p>
+**List of topics**
+- Discovery of nonreciprocal materials in nature
+- Nanophotonic control of optical angular momentum
+- Nanophotonic chiral sensing
+
+**Related papers**
+- 
+- 
 
 <p align="center"><img src="/assets/img/research-interest-4.png" style="max-width: 80%; height: auto;"></p>
+**List of topics**
+- Optical nonreciprocity in metamaterials
+- Nanophotonic sensor for bi-isotropic materials
 
+**Related papers**
+- 
+- 
 
 #### Quantum Plasmonics
 Quantum systems such as graphene, carbon nanotubes, and grain boundaries in 2D TMDs can support surface plasmons, a collective oscillation of electrons at the metallic surface. Such quantum plasmons exhibit unique properties that cannot be found in classical plasmons of noble metals. We study the novel properties of quantum plasmons and their nanophotonic application.
