@@ -18,8 +18,9 @@ published: true
 - Polarimetric microscopy for optical control and high precision measurement of valley polarization, Review of Scientific Instruments, 89, 6, 063118 (2018).
 - Large-area plasmon enhanced two-dimensional MoS2, Nanoscale, 9, 16244-16248 (2017). 
 
-<p align="center"><img src="/assets/img/research-interest-2.png" style="max-width: 80%; height: auto;"></p>
+<p><img src="/assets/img/research-interest-2.png" style="max-width: 80%; height: auto;"></p>
 We explore novel physics on the light-matter interaction in quantum systems including low-dimensional condensed matter. Low dimensional materials exhibits strong light-matter interaction even though they have atomic thicknesses. They also possess exotic and novel qunatum properties that cannot be found in their higher dimensional counterparts.
+
 Also, quantum systems such as graphene, carbon nanotubes, and grain boundaries in 2D TMDs can support surface plasmons, a collective oscillation of electrons at the metallic surface. Such quantum plasmons exhibit unique properties that cannot be found in classical plasmons of noble metals. We study the novel properties of quantum plasmons and their nanophotonic application.
 
 **List of topics**
@@ -30,7 +31,7 @@ Also, quantum systems such as graphene, carbon nanotubes, and grain boundaries i
 - Infrared light-emitting devices from antenna-coupled Luttinger liquid plasmons in carbon nanotubes, Physical Review Letters, 127, 257702 (2021).
 - Gate tunable plasmons in mixed-dimensional van der Waals heterostructures, Nature Communications, 12, 5039 (2021).
 
-<p align="center"><img src="/assets/img/research-interest-3.png" style="max-width: 80%; height: auto;"></p>
+<p><img src="/assets/img/research-interest-3.png" style="max-width: 80%; height: auto;"></p>
 **List of topics**
 - Discovery of nonreciprocal materials in nature
 - Nanophotonic control of optical angular momentum
@@ -41,7 +42,7 @@ Also, quantum systems such as graphene, carbon nanotubes, and grain boundaries i
 - Microscopic Origin of Surface-enhanced Circular Dichroism, ACS photonics, 4, 8, 2047-2052 (2017).
 - Globally enhanced chiral field generation by negative-index metamaterials, Physical Review B, 89(16), 161405(R) (2014).
 
-<p align="center"><img src="/assets/img/research-interest-4.png" style="max-width: 80%; height: auto;"></p>
+<p><img src="/assets/img/research-interest-4.png" style="max-width: 80%; height: auto;"></p>
 **List of topics**
 - Optical nonreciprocity in metamaterials
 - Nanophotonic sensor for bi-isotropic materials
