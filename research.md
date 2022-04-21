@@ -5,7 +5,24 @@ published: true
 ---
 
 ## Research Interest
+### Physics in low dimension
 <p align="center"><img src="/assets/img/research-interest-1.png" style="max-width: 70%; height: auto;"></p>
+- Nanophotonic control of low D properties
+- Optoelectronic devices based on low-dimensional materials
+- Novel ellipsometry for low D heterostructure
+#### Related papers
+- 1
+- 2
+- 3
+
+#### Quantum light-matter Interaction 
+<p align="center"><img src="/assets/img/research-interest-2.png" style="max-width: 70%; height: auto;"></p>
+
+#### Bi-isotropy (nonreciprocity + chirality) of light
+<p align="center"><img src="/assets/img/research-interest-3.png" style="max-width: 70%; height: auto;"></p>
+
+#### Nanophotonics
+<p align="center"><img src="/assets/img/research-interest-4.png" style="max-width: 70%; height: auto;"></p>
 
 #### Light-matter Interaction in quantum systems
 We explore novel physics on the light-matter interaction in quantum systems including low-dimensional condensed matter. Low dimensional materials exhibits strong light-matter interaction even though they have atomic thicknesses. They also possess exotic and novel qunatum properties that cannot be found in their higher dimensional counterparts.
