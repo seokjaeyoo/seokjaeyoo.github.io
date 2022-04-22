@@ -13,10 +13,10 @@ published: true
 - Novel ellipsometry for low D heterostructure
 
 **Related papers**
-- Efficient Fizeau Drag from Dirac electrons in monolayer graphene, Nature, 594 (7864), 517-521 (2021).
 - Measuring the optical permittivity of two-dimensional materials without a priori knowledge on electronic transitions, Nanophotonics, 8, 2, 263 (2019).
 - Polarimetric microscopy for optical control and high precision measurement of valley polarization, Review of Scientific Instruments, 89, 6, 063118 (2018).
 - Large-area plasmon enhanced two-dimensional MoS2, Nanoscale, 9, 16244-16248 (2017). 
+- Efficient Fizeau Drag from Dirac electrons in monolayer graphene, Nature, 594 (7864), 517-521 (2021).
 
 <p><img src="/assets/img/research-interest-2.png" style="max-width: 100%; height: auto;"></p>
 We explore novel physics on the light-matter interaction in quantum systems including low-dimensional condensed matter. Low dimensional materials exhibits strong light-matter interaction even though they have atomic thicknesses. They also possess exotic and novel qunatum properties that cannot be found in their higher dimensional counterparts.
