@@ -7,6 +7,7 @@ pi:
 - {name: 'SeokJae Yoo', title: 'Professor', department: 'Physics', institution: 'Inha University', institution_address: 'address', phone: '(032) 860-7658', email: 'seokjaeyoo@inha.ac.kr', office: '5S303', image: 'assets/img/seokjae.jpg', url: 'professor'}
 
 member:
+- {name: 'Chibuzo Onwukaeme', title: 'Postdoc', department: 'Physics', institution: 'Inha University', institution_address: 'address', phone: 'NA', email: 'hyginusonwuka@gmail.com', office: '5N302', url: 'postdoc', image: 'assets/img/SymbolMark_tran.png'}
 - {name: 'DongJun, Kang', title: 'Student', department: 'Physics', institution: 'Inha University', institution_address: 'address', phone: 'NA', email: 'qqsscc0310@inha.edu', office: '5N302', url: 'graduate-student', image: 'assets/img/SymbolMark_tran.png'}
 - {name: 'YoonYeong, Ko', title: 'Student', department: 'Physics', institution: 'Inha University', institution_address: 'address', phone: 'NA', email: 'b46541@naver.com', office: '5N302', url: 'graduate-student', image: 'assets/img/SymbolMark_tran.png'}
 - {name: 'Eun Su, Jeon', title: 'Student', department: 'Mathematics', institution: 'Inha University', institution_address: 'address', phone: 'NA', email: 'lasttwice@inha.edu', office: '5N302', url: 'graduate-student', image: 'assets/img/SymbolMark_tran.png'}
