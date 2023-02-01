@@ -12,5 +12,5 @@ We also welcome undergraduate internship. Feel free to reach out to Prof. Yoo if
 
 - **Open Office** : No appointment is required. Any topics are welcome. Details for Open Office are described in [this post](https://seokjaeyoo.github.io//2021/07/14/openoffice.html). In Spring semester 2022, Open Office hours are 15:00~17:00 (Mon) and 13:00~15:00 (Thu). Please find [Google Calendar](https://calendar.google.com/calendar/embed?src=c_t42fgem8cotfbrv0fli02jq43k%40group.calendar.google.com&ctz=Asia%2FSeoul) for Prof. Yoo's schedule. 
 - **Open Lab** : TBA
-- **Lab manual** : see [here](https://github.com/seokjaeyoo/quantum-nano-optics-group/blob/main/20210827_group-manual_v1.pdf)
+- **Lab manual** : see [here](https://github.com/seokjaeyoo/quantum-nano-optics-group/blob/main/20230201_group-manual_v2.pdf)
 - **Contact** : Prof. SeokJae Yoo, email:seokjaeyoo at inha.ac.kr
