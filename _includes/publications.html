@@ -11,6 +11,15 @@
   </div>
   
   <div>
+    <h4 class="fw-bold border-bottom pb-3 mb-5">2023</h4>
+    <ul>
+      {% for item in site.data.publications.yr2023 %}
+          <li>{{ item.name }} (<a href="{{ item.url }}">link</a>)</li>
+      {% endfor %}
+    </ul>
+  </div>
+  
+  <div>
     <h4 class="fw-bold border-bottom pb-3 mb-5">2022</h4>
     <ul>
       {% for item in site.data.publications.yr2022 %}
