@@ -15,12 +15,11 @@ wnrrpej@naver.com', office: '5N302', url: 'graduate-student', image: 'assets/img
 - {name: 'Eun Su, Jeon', title: 'Undergrad student', department: 'Mathematics', institution: 'Inha University', institution_address: 'address', phone: 'NA', email: 'lasttwice@inha.edu', office: '5N302', url: 'graduate-student', image: 'assets/img/EunSu.JPG'}
 - {name: 'Kyeong Pyo, Jeon', title: 'Undergrad student', department: 'Physics', institution: 'Inha University', institution_address: 'address', phone: 'NA', email: '
 jkprudvy@naver.com', office: '5N302', url: 'graduate-student', image: 'assets/img/SymbolMark_tran.png'}
-- {name: 'SeungWoo, Choi', title: 'Undergrad student', department: 'Physics', institution: 'Inha University', institution_address: 'address', phone: 'NA', email: 'reungwoo0127@gmail.com', office: '5N302', url: 'graduate-student', image: 'assets/img/SymbolMark_tran.png'}
+- {name: 'KiJeong Park', title: 'Undergrad student', department: 'Physics', institution: 'Inha University', institution_address: 'address', phone: 'NA', email: 'pk2j0905@gmail.com', office: '5N302', url: 'graduate-student', image: 'assets/img/SymbolMark_tran.png'}
 
 alumni:
-- {name: 'Jingyu Youn', period: 'Undergrad internship (01.2022~06.2022)', title: 'LG Display'}
-- {name: 'Kyung Hoon Kim', period: 'Undergrad internship (2021/2022 winter)', title: 'Inha University (student)'}
-- {name: 'KiBack Kim', period: 'Undergrad internship (2021/2022 winter)', title: 'Inha University (student)'}
+- {name: 'Jingyu Youn', period: 'Undergrad internship', title: 'LG Display'}
+- {name: 'SeungWoo Choi', period: 'Undergrad internship', title: 'Military service'}
 
 social:
 - {icon: 'google', link: 'https://scholar.google.com/citations?user=ykNjjx0AAAAJ&hl=en'}
