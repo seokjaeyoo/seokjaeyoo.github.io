@@ -8,7 +8,7 @@ pi:
 
 member:
 - {name: 'Chibuzo Onwukaeme', title: 'Postdoc', department: 'Physics', institution: 'Inha University', institution_address: 'address', phone: 'NA', email: 'hyginusonwuka@gmail.com', office: '5N302', url: 'postdoc', image: 'assets/img/Chibuzo.jpg'}
-- {name: 'DongJun, Kang', title: 'Graduate student', department: 'Physics', institution: 'Inha University', institution_address: 'address', phone: 'NA', email: 'qqsscc0310@inha.edu', office: '5N302', url: 'graduate-student', image: 'assets/img/SymbolMark_tran.png'}
+- {name: 'DongJun, Kang', title: 'Graduate student', department: 'Physics', institution: 'Inha University', institution_address: 'address', phone: 'NA', email: 'qqsscc0310@inha.edu', office: '5N302', url: 'graduate-student', image: 'assets/img/dongjun.jpg'}
 - {name: 'YoonYeong, Ko', title: 'Graduate student', department: 'Physics', institution: 'Inha University', institution_address: 'address', phone: 'NA', email: 'b46541@naver.com', office: '5N302', url: 'graduate-student', image: 'assets/img/YoonYeong.jpg'}
 - {name: 'Kang Ryeol, Lee', title: 'Undergrad student', department: 'Physics', institution: 'Inha University', institution_address: 'address', phone: 'NA', email: '
 wnrrpej@naver.com', office: '5N302', url: 'graduate-student', image: 'assets/img/SymbolMark_tran.png'}
