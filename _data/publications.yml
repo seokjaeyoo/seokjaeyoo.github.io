@@ -6,7 +6,7 @@ prep:
 - {name: 'Hyeohn Kim†, Eunji Im†, Ryeong Myeong Kim, Nam Heon Cho, Jeong Hyun Han, Hyo-Yong Ahn, Ji-Hyeok Huh, SeokJae Yoo, Seungwoo Lee, and Ki Tae Nam, Capacitive Enhancements of the Chiroptical Response in Plasmonic Helicoids, submitted.', url: ''}
 
 yr2023:
-- {name: 'Yoonsoo Rho†, SeokJae Yoo†, Daniel B. Durham, DongJun Kang, Andrew M. Minor, Hee K. Park, and Costas P. Grigoropoulos, Plasmonic nonlinear energy transfer enhanced second harmonic generation nanoscopy, accepted, Nano Letters.', url: ''}
+- {name: 'Yoonsoo Rho†, SeokJae Yoo†, Daniel B. Durham, DongJun Kang, Andrew M. Minor, Hee K. Park, and Costas P. Grigoropoulos, Plasmonic nonlinear energy transfer enhanced second harmonic generation nanoscopy, accepted, Nano Letters.', url: 'https://pubs.acs.org/doi/pdf/10.1021/acs.nanolett.2c04748'}
 - {name: 'Eun Su Jeon†, YoonYeong Ko†, and SeokJae Yoo, Design Principles for Electrically Driven Luttinger Liquid-fed Plasmonic Nanoantennas, accepted, Nanophotonics.', url: 'https://doi.org/10.1515/nanoph-2022-0782'}
 
 yr2022:
