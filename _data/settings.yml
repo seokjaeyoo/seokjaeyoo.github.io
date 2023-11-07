@@ -4,7 +4,7 @@ menu:
 - {name: 'publications', url: '/publications'}
 
 pi:
-- {name: 'SeokJae Yoo', title: 'Professor', department: 'Physics', institution: 'Inha University', institution_address: 'address', phone: '(032) 860-7658', email: 'seokjaeyoo@inha.ac.kr', office: '5S303', image: 'assets/img/seokjae.jpg', url: 'professor'}
+- {name: 'SeokJae Yoo', title: 'Assistant Professor', department: 'Physics', institution: 'Inha University', institution_address: 'address', phone: '(032) 860-7658', email: 'seokjaeyoo@inha.ac.kr', office: '5S303', image: 'assets/img/seokjae.jpg', url: 'professor'}
 
 member:
 - {name: 'Chibuzo Onwukaeme', title: 'Postdoc', department: 'Physics', institution: 'Inha University', institution_address: 'address', phone: 'NA', email: 'hyginusonwuka@gmail.com', office: '5N302', url: 'postdoc', image: 'assets/img/Chibuzo.jpg'}
