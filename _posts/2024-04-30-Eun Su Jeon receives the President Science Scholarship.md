@@ -4,4 +4,4 @@
 
 전은수 학생은 "스핀-모멘텀 고정 플라즈모닉 나노공진기에서의 퍼셀 효과 연구“를 주제로, 물리학과 유석재 교수의 지도 하에 앞으로 2년 간 연구를 진행하며 학업을 수행할 계획이다.
 
-<p><img src="https://raw.githubusercontent.com/seokjaeyoo/seokjaeyoo.github.io/gh-pages/_posts/eunsu-scholarship.png.png" style="max-width: 100%; height: auto;"></p>
+<p><img src="https://raw.githubusercontent.com/seokjaeyoo/seokjaeyoo.github.io/gh-pages/_posts/eunsu-scholarship.png" style="max-width: 100%; height: auto;"></p>
