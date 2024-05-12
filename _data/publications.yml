@@ -1,11 +1,11 @@
 featured:
 - {name: 'SeokJae Yoo, and Q-Han Park, Chiral Light-Matter Interaction in Optical Resonators, Physical Review Letters, 114(20), 203003 (2015).', url: 'https://doi.org/10.1103/PhysRevLett.114.203003'}
-- {name: 'Sihan Zhao†, SeokJae Yoo†, Sheng Wang†, Bosai Lyu, Salman Kahn, Fanqi Wu, Zhiyuan Zhao, Dingzhou Cui, Wenyu Zhao, Yoseob Yoon, M. Iqbal Bakti Utama, Wu Shi, Kenji Watanabe, Takashi Taniguchi, Michael F. Crommie, Zhiwen Shi, Chongwu Zhou, and Feng Wang, Tunneling Spectroscopy in Carbon Nanotube-Hexagonal Boron Nitride-Carbon Nanotube Heterojunctions, Nano Letters, 20 (9), 6712-6718 (2020).', url: 'https://doi.org/10.1021/acs.nanolett.0c02585'}
+- {name: 'SeokJae Yoo, Sihan Zhao, and Feng Wang, Infrared light-emitting devices from antenna-coupled Luttinger liquid plasmons in carbon nanotubes, Physical Review Letters, 127, 257702 (2021).', url: 'https://link.aps.org/doi/10.1103/PhysRevLett.127.257702'}
 
 prep:
-- {name: 'DongJun Kang‡, Chibuzo Onwukaeme‡, KiJeong Park, KyeongPyo Jeon, Han-Youl Ryu, and SeokJae Yoo, Nanophotonic Route to Control Electron Behaviors in 2D Materials, submitted.', url: ''}
 
 yr2023:
+- {name: 'DongJun Kang‡, Chibuzo Onwukaeme‡, KiJeong Park, KyeongPyo Jeon, Han-Youl Ryu, and SeokJae Yoo, Nanophotonic Route to Control Electron Behaviors in 2D Materials, Nanophotonics, published online', url: 'https://doi.org/10.1515/nanoph-2024-0074'}
 - {name: 'Kang Ryeol Lee, JinGyu Youn, and SeokJae Yoo, Deterministic reflection contrast ellipsometry for thick multilayer two-dimensional heterostructures, Nanophotonics, 13 (8), 1417 (2024).', url: 'https://doi.org/10.1515/nanoph-2023-0753'}
 - {name: 'Hyeohn Kim†, Eunji Im†, Ryeong Myeong Kim, Nam Heon Cho, Jeong Hyun Han, Hyo-Yong Ahn, Ji-Hyeok Huh, SeokJae Yoo, Seungwoo Lee, and Ki Tae Nam, Capacitive Enhancements of the Chiroptical Response in Plasmonic Helicoids, Advanced Optical Materials, 11 (16), 2300205 (2023).', url: 'https://onlinelibrary.wiley.com/doi/abs/10.1002/adom.202300205'}
 - {name: 'Yoonsoo Rho†, SeokJae Yoo†, Daniel B. Durham, DongJun Kang, Andrew M. Minor, Hee K. Park, and Costas P. Grigoropoulos, Plasmonic nonlinear energy transfer enhanced second harmonic generation nanoscopy, Nano Letters, 23, 5, 1843 (2023).', url: 'https://pubs.acs.org/doi/pdf/10.1021/acs.nanolett.2c04748'}
