@@ -2,6 +2,10 @@ featured:
 - {name: 'SeokJae Yoo, and Q-Han Park, Chiral Light-Matter Interaction in Optical Resonators, Physical Review Letters, 114(20), 203003 (2015).', url: 'https://doi.org/10.1103/PhysRevLett.114.203003'}
 - {name: 'SeokJae Yoo, Sihan Zhao, and Feng Wang, Infrared light-emitting devices from antenna-coupled Luttinger liquid plasmons in carbon nanotubes, Physical Review Letters, 127, 257702 (2021).', url: 'https://link.aps.org/doi/10.1103/PhysRevLett.127.257702'}
 
+yr2024:
+- {name: 'DongJun Kang†, Chibuzo Onwukaeme†, KiJeong Park, KyeongPyo Jeon, Han-Youl Ryu, and SeokJae Yoo, Nanophotonic Route to Control Electron Behaviors in 2D Materials, Nanophotonics, published online', url: 'https://doi.org/10.1515/nanoph-2024-0074'}
+- {name: 'Kang Ryeol Lee, JinGyu Youn, and SeokJae Yoo, Deterministic reflection contrast ellipsometry for thick multilayer two-dimensional heterostructures, Nanophotonics, 13 (8), 1417 (2024).', url: 'https://doi.org/10.1515/nanoph-2023-0753'}
+
 prep:
 - {name: 'DongJun Kang†, Chibuzo Onwukaeme†, KiJeong Park, KyeongPyo Jeon, Han-Youl Ryu, and SeokJae Yoo, Nanophotonic Route to Control Electron Behaviors in 2D Materials, Nanophotonics, published online', url: 'https://doi.org/10.1515/nanoph-2024-0074'}
 - {name: 'Kang Ryeol Lee, JinGyu Youn, and SeokJae Yoo, Deterministic reflection contrast ellipsometry for thick multilayer two-dimensional heterostructures, Nanophotonics, 13 (8), 1417 (2024).', url: 'https://doi.org/10.1515/nanoph-2023-0753'}
