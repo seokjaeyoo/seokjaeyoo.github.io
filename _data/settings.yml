@@ -17,11 +17,12 @@ wnrrpej@naver.com', office: '5N302', url: 'graduate-student', image: 'assets/img
 - {name: 'Eun Su, Jeon', title: 'Grad student', department: 'Mathematics', institution: 'Inha University', institution_address: 'address', phone: 'NA', email: 'lasttwice@inha.edu', office: '5N302', url: 'graduate-student', image: 'assets/img/EunSu.JPG'}
 - {name: 'Kyeong Pyo, Jeon', title: 'Grad student', department: 'Physics', institution: 'Inha University', institution_address: 'address', phone: 'NA', email: '
 jkprudvy@naver.com', office: '5N302', url: 'graduate-student', image: 'assets/img/SymbolMark_tran.png'}
+- {name: 'Yong Whan Song', title: 'Grad student', department: 'Physics', institution: 'Inha University', institution_address: 'address', phone: 'NA', email: 'qkawl14@inha.edu', office: '5N302', url: 'graduate-student', image: 'assets/img/SymbolMark_tran.png'}
 - {name: 'SeungWoo Choi', title: 'Undergrad student', department: 'Physics', institution: 'Inha University', institution_address: 'address', phone: 'NA', email: 'reungwoo0127@inha.edu', office: '5N302', url: 'graduate-student', image: 'assets/img/SymbolMark_tran.png'}
 - {name: 'DongSung Lee', title: 'Undergrad student', department: 'Physics', institution: 'Inha University', institution_address: 'address', phone: 'NA', email: 'dongsung7533@naver.com', office: '5N302', url: 'graduate-student', image: 'assets/img/SymbolMark_tran.png'}
-- {name: 'KiJeong Park', title: 'Undergrad student', department: 'Physics', institution: 'Inha University', institution_address: 'address', phone: 'NA', email: 'pk2j0905@gmail.com', office: '5N302', url: 'graduate-student', image: 'assets/img/SymbolMark_tran.png'}
 
 alumni:
+- {name: 'Ki Jeong Park', period: 'Undergrad internship', title: 'KIST'}
 - {name: 'Jingyu Youn', period: 'Undergrad internship', title: 'LG Display'}
 
 social:
